@@ -5,7 +5,7 @@ var arrayOfQuotes = [
   },
   {
     author: "Epictetus",
-    quote: "Its not what happens to you, but how youreact to it that matters."
+    quote: "Its not what happens to you, but how you react to it that matters."
   },
   { author: "Frank Sinatra", quote: "The best revenge is massive success" },
   {
